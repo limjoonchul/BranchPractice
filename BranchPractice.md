@@ -18,3 +18,7 @@
 ## Amaging Spider-Man2
 
 -2014, Andrew Garfield
+
+## Venom
+
+-2018, Tom Hardy
