@@ -14,3 +14,7 @@
 ## Amaging Spyder-Man
 
 -2012, Andrew Garfield
+
+## Amaging Spyder-Man2
+
+-2014, Andrew Garfield
