@@ -8,4 +8,9 @@
 -2004, Tobey Maguire
 
 ## Spyder-Man3
+
 -2007, Tobey Maguire
+
+## Amaging Spyder-Man
+
+-2012, Andrew Garfield
